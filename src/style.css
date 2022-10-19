@@ -1,0 +1,55 @@
+.nav{
+  text-align: center;
+  left: 500px;
+  background-color: aqua;
+  height: 100px;
+  padding: 20px 36px;
+  font-size: 30px;
+ 
+}
+.place{
+  text-align: center;
+  font-family: Tahoma, Geneva, sans-serif;
+font-size: 16px;
+letter-spacing: 2px;
+word-spacing: 2px;
+color: #000000;
+font-weight: 700;
+text-decoration: none solid rgb(68, 68, 68);
+font-style: normal;
+font-variant: normal;
+text-transform: none;
+}
+.price{
+  text-align: center;
+  font:400;
+  font-family: "Comic Sans MS", cursive, sans-serif;
+font-size: 16px;
+letter-spacing: 2px;
+word-spacing: 2px;
+color: #000000;
+font-weight: 400;
+text-decoration: none solid rgb(68, 68, 68);
+font-style: normal;
+font-variant: normal;
+text-transform: none;
+}
+.timeToGo{
+  text-align: center;
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  font-size: 16px;
+  letter-spacing: 2px;
+  word-spacing: 2px;
+  color: #000000;
+  font-weight: 400;
+  text-decoration: none solid rgb(68, 68, 68);
+  font-style: normal;
+  font-variant: normal;
+  text-transform: none;
+}
+.card{
+  display: flex;
+}
+.card--image{
+  width: 150px;
+}
